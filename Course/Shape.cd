@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Course.Entities.Shape">
+    <Position X="0.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAA=</HashCode>
+      <FileName>Entities\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Entities.Circle">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entities\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Entities.Rectangle">
+    <Position X="5.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Entities\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Course.Entities.Enums.Color">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Enums\Color.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Fira Code" Size="10" />
+</ClassDiagram>
